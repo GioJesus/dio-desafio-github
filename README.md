@@ -1,2 +1,2 @@
 # dio-desafio-github
-Primeiro reposió
+Primeiro repositório
