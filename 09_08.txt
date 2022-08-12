@@ -1,0 +1,27 @@
+git
+	- possibilita que várias pessoas mexam no código simultaneamente
+	- várias versões em um site só
+	- CLI: comand line interface
+- DIR/LS - lista pastas
+- cd / - ir pra pastas especificas
+- cd .. - retroceder pastas
+- cls/clear/ ctrl + l - limpar o terminal
+- tab - completa 
+- mkdir - criar pasta
+- echo - devolve oq vc escrever
+- del - deletar arquivos
+- rmdir - apagar repositorio
+- SHA - encripta arquivo (caracteres de 40 digitos) - forma curta
+- git bash here
+- blobs
+	- armazenam meta dados
+	- guarda o sha
+- tree
+	- monta a estrutura dos arquivos
+	- apontam pras blobs
+- commit
+	-  aponta pra tudo, tem mensagem e timestamp
+
+- sistema distribuído seguro
+- chave ssh
+	- conexão segura entre máquinas

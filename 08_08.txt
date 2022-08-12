@@ -1,0 +1,23 @@
+- pensamento computacional
+	- formulação e soluções que usam os algoritmos 
+	- sistemático e ficiente
+	- é uma habilidade
+	- dividir um 
+	- problema complexo em subproblemas
+	- reconhecer padrões
+	- pegar um problema e levar pra uma forma abstrata e resolve-lo de forma generalista
+	- define o passo a passo pra solução do problema 
+	- 
+	- SEMPRE APERFEIÇOAR
+- raciocínio lógico
+- computador precisa de instruções detalhadas
+	- step by step
+	- algoritmos
+- essas instruções precisam fazer sentido para o ser humano e para máquina
+- precisamos compreender o problema, definir os dados de entrada, como esses vão ser processados, como irão sair e então realizar testes
+- operadores
+	- binarios e unarios
+- 
+- vetor: uma variavel que possui sequencia [15, 14, 13, 12 , 11]
+- matriz: tabela com linhas e colunas
+	- coleção de variaveis

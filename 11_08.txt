@@ -1,0 +1,20 @@
+- git init - criar e rodar repositorio
+	- unmodified, modified, staged("estão se preparando')
+	- untracked - ainda não foi rodado (git add)
+- git add
+- git commit
+- ls -a : ver arquivos ocultos
+- git config --global user.email "meu email"
+	- ENTE
+	- git config --global user.name NOME
+- markdown: um html mais simplificado
+	- "#" = h1
+	- **Negrito**
+	- _itálico_
+	- :nome do emoji
+	- "###" = h3
+	- espaço - espaço = tópico
+- 
+- git status
+- github
+	- git remote add origin

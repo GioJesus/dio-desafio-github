@@ -1,0 +1,4 @@
+- criamos um repositorio na github
+- git clone
+- git add
+-  git commit -m  "explicação" -> git push origin main : mandar pra nuvem

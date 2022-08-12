@@ -1,0 +1,56 @@
+- introduziram a plataforma e o Bootcamp;
+	- Achei bem importante porque explica a plataforma
+- Etapas do desenvolvimento de softwares
+	- diferenças de sistemas destktok vs web (saas)
+	- ux design (user experience) comportamento
+		- melhora a usabilidade pro usuario
+		- cria protótipos pros programas
+		- pesquisa, protótipos, personas e objetivos
+	- ui design (user interface) aparência
+		- cria o que o usuario vai ver e interagir
+		- design, tipografia, cores, layouts
+	- front-end
+		- modelo cliente-servidor
+		- programação da parte visual de um site ou aplicativo (HTML, CSS e JavaScript)
+		- usa o IDE (sofware que cria aplicações)
+	- frameworks
+		- facilitador
+		- angular, laravel(php) e vue(japa)
+		- ajuda com tarefas repetitivas e mecanicas
+	- back end
+		- o que vem por trás de uma aplicação
+		- usa banco de dados
+		- ponte entre os dados que vem do navegador até o banco de dados
+		- usuário não tem acesso
+		- java, php e c#
+		- API
+			- intermediário de software, permitem os apps conversarem entre si
+			- 
+			- volta em json
+	- full stack
+		- desenvolvem a aplicação de ponta a ponta (tanto back quanto front)
+		- amplo conhecimento de linguagens de programação
+	- QA (quality assurance)
+		- analisar a qualidade do código
+		- a prova de idiotas
+		- identificar o "caminho feliz"
+		- verifica se os padrões de qualidade estão sendo atendidos
+	- Infaestrutura
+		- modelo de nuvem (privada e publica)
+		- privada
+			- segurança lógica e física
+			- ubuntu server windows server
+			- garantem o funcionamento dos servidores
+		- publica
+			- empresas que oferecem seus servidores
+			- amazon, google, liquid web, azure, oracle
+			- sistemas em nuvens
+			- melhor preço, facilidade de contratação, escalabilidade e performance
+		- Profissional de Cloud Computing
+			- cuida de tudo relacionado ao servidor
+	- desenvolvimento mobile: android
+		- java e/ou kotlin
+		- ios
+			- swift
+		- híbridos
+			- ionic, flutter, react native
